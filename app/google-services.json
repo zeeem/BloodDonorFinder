@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "258561532246",
+    "firebase_url": "https://blood-donor-finder-3ad19.firebaseio.com",
+    "project_id": "blood-donor-finder-3ad19",
+    "storage_bucket": "blood-donor-finder-3ad19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258561532246:android:53e8448146d740d8",
+        "android_client_info": {
+          "package_name": "finder2.donor.bllod.zeeem.blooddonorfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258561532246-bq9v7nq7vua2fkmrfvebvdqfbg4sej53.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "finder2.donor.bllod.zeeem.blooddonorfinder",
+            "certificate_hash": "40dd64c64ecdff2e5a53aae6009fffbe1dd6cac0"
+          }
+        },
+        {
+          "client_id": "258561532246-ipksv6p56jv4d50ljrl6tp3ovfmecg1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUMsOB-aRnqYhTfL-qx_KpBFnLDSbK6as"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258561532246-ipksv6p56jv4d50ljrl6tp3ovfmecg1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
